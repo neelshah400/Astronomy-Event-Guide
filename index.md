@@ -54,11 +54,19 @@ TBA.
 
 ### Deep Sky Objects
 
-TBA.
+Each year, there are approximately 15 deep sky objects, which vary each year. It is recommended that you categorize the DSOs and then take notes. My procedure for each is as follows:
+
+1. List other designations of the DSO.
+2. Summarize important information.
+3. Make a table of characteristics/observation data.
+4. Do research, and take notes using [Wikipedia](https://en.wikipedia.org/wiki/Main_Page).
+5. List any references that may be useful.
+6. Download the [Google Images](https://images.google.com/) results for the DSO for identification purposes on tests.
+7. Download PDFs of any references that may be useful.
 
 ## Practice Tests
 
-TBA.
+Tests can be found on the [wiki](https://scioly.org/wiki/index.php/2019_Test_Exchange) or [scioly.org](https://scioly.org/tests/). Tests we found useful can be found in the [OneNote notebook](https://1drv.ms/u/s!Apcl7amPaGsGgaoDumiYcJQazmcwFQ?e=UjgB3d).
 
 ## Resources
 
